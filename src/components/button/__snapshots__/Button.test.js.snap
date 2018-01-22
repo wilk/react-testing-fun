@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders Button without Paragraph 1`] = `
+exports[`button behaviour renders Button 1`] = `
 <button
   onClick={[Function]}
 >
